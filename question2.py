@@ -11,4 +11,4 @@ def char_frequency(str1): #organizes frequency of character with its character
             dict[n] = 1
     return dict
 
-print(char_frequencya(a)) #prints frequency count
+print(char_frequency(a)) #prints frequency count
